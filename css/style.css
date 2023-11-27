@@ -1,0 +1,37 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;;
+    background-color: rgb(220, 184, 203);
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+h1 {
+    color: rgb(255, 153, 201);
+}
+.container {
+    text-align: center;
+    background-color: rgb(125, 132, 145);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(255, 41, 156);
+}
+
+#output {
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid #e0e0e0;
+    border-radius: 7px;
+    background-color: rgb(255, 153, 201); 
+    color: rgb(249, 245, 255); 
+}
+
+.pink {
+    color: rgb(255, 41, 156); 
+}
+
+.grey {
+    color: rgb(76, 87, 96); 
+}
